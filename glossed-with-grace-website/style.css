@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+    font-family: Arial, sans-serif;
+    background-color: #fff5f7;
+    margin: 0;
+    padding: 0;
+    color: #4a4a4a; 
+</body> 
+header {
+    background-color: #f8d7da;
+    padding: 30px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    color: #7a4e57;
+    font-size: 40px;
+} 
+nav {
+    background-color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #f8d7da;
+}
+nav a {
+    text-decoration: none;
+    color: #7a4e57;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #d98c9d;
+}
+main {
+    padding: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    color: #7a4e57;
+    font-size: 32px;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+img {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+ul {
+    line-height: 2;
+    font-size: 18px;
+}
+
+iframe {
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #f8d7da;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    color: #7a4e57;
+} 
